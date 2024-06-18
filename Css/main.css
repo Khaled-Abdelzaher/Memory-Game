@@ -70,9 +70,9 @@ body {
     transform: rotateY(180deg);
 }
 .memory-game-blocks .game-block .back img {
-    width: 150px;
-    height: 150px;
-    margin-top: 25px;
+    width: 160px;
+    height: 174px;
+    margin-top: 16px;
 }
 .memory-game-blocks .game-block .face {
     position: absolute;
